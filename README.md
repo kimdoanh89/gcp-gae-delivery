@@ -36,4 +36,4 @@ Follow the steps from ref.
 - Enable the APIs.
 - Grant App Engine access to the Cloud Build service account.
   - Enable App Engine
-  - Enable Service account
+- Enable the Build Trigger
